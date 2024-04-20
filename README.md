@@ -3,9 +3,8 @@
 **Abstract**: https://d3qi0qp55mx5f5.cloudfront.net/stat/docs/Stu-Seminars/2023-24/Ko_Theodora_043024.pdf?mtime=1713449126
 <hr> 
 
-# Minimizing Empty Truck Miles Driven via Decision-Theoretic Online Learning and Link Prediction on a Temporal Transportation Graph 
+## Minimizing Empty Truck Miles Driven via Decision-Theoretic Online Learning and Link Prediction on a Temporal Transportation Graph 
 
-## Abstract 
 Reducing the total miles driven by unloaded trucks is a critical challenge in the transportation
 industry with significant economic and environmental implications. This paper frames the issue
 as a statistical decision problem in an online setting, where a driver who has just completed a
