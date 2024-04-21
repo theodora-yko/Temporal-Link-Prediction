@@ -13,7 +13,8 @@ make && make install
 
 # setup proj dir
 cd ~/Documents
-mkdir proj && cd proj
+git clone https://github.com/theodora-yko/Temporal-Link-Prediction.git
+cd Temporal-Link-Prediction 
 
 # setup virtualenv
 PY=$HOME/.localpython/bin/python3
