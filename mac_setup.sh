@@ -20,4 +20,4 @@ $PY -m venv venv
 source venv/bin/activate
 
 # pip install
-$PY -m pip install stellargraph chardet
+$PY -m pip install stellargraph chardet seaborn numpy pandas networkx seaborn tqdm gensim scikit-learn
