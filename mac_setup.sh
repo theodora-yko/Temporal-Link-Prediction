@@ -12,9 +12,7 @@ cd Python-3.8.13
 make && make install
 
 # setup proj dir
-cd ~/Documents
-git clone https://github.com/theodora-yko/Temporal-Link-Prediction.git
-cd Temporal-Link-Prediction 
+cd ~/Documents/Github/Temporal-Link-Prediction 
 
 # setup virtualenv
 PY=$HOME/.localpython/bin/python3
