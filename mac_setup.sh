@@ -12,9 +12,7 @@ cd Python-3.8.13
 make && make install
 
 # setup proj dir
-cd ~/Documents
-git clone https://github.com/theodora-yko/Temporal-Link-Prediction.git
-cd Temporal-Link-Prediction 
+cd ~/Documents/Github/Temporal-Link-Prediction 
 
 # setup virtualenv
 PY=$HOME/.localpython/bin/python3
@@ -22,4 +20,4 @@ $PY -m venv venv
 source venv/bin/activate
 
 # pip install
-$PY -m pip install stellargraph chardet
+$PY -m pip install stellargraph chardet seaborn numpy pandas networkx seaborn tqdm gensim scikit-learn
