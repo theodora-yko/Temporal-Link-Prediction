@@ -1,6 +1,10 @@
 **Event**: https://stat.uchicago.edu/events/event/3853/
 
 **Abstract**: https://d3qi0qp55mx5f5.cloudfront.net/stat/docs/Stu-Seminars/2023-24/Ko_Theodora_043024.pdf?mtime=1713449126
+
+**Paper**: https://github.com/theodora-yko/Temporal-Link-Prediction/blob/main/Theodora_Ko_Thesis.pdf
+
+**Presentation**: 
 <hr> 
 
 ## Minimizing Empty Truck Miles Driven via Decision-Theoretic Online Learning and Link Prediction on a Temporal Transportation Graph 
