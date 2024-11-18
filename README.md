@@ -4,7 +4,7 @@
 
 **Paper**: https://github.com/theodora-yko/Temporal-Link-Prediction/blob/main/Theodora_Ko_Thesis.pdf
 
-**Presentation**: 
+**Presentation**: https://github.com/theodora-yko/Temporal-Link-Prediction/blob/main/Thesis%20Presentation.pptx
 <hr> 
 
 ## Minimizing Empty Truck Miles Driven via Decision-Theoretic Online Learning and Link Prediction on a Temporal Transportation Graph 
